@@ -1,0 +1,4 @@
+for (var a = 0; a <= 340; a = a+10) {
+noFill();
+ellipse (170, 170, a, a);
+}
