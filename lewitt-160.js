@@ -1,3 +1,4 @@
+background (255)
 noFill();
 rect (20,20,300,300)
 stroke(255,0,0)
